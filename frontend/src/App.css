@@ -20,3 +20,11 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.progress-div {
+    color: #17181d;
+}
+
+.progress-bar {
+    border-radius: 5px;
+}
