@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #17181d;
+    color: #ddd;
+}
+
+.header-app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

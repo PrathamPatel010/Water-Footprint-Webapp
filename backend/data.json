@@ -1,0 +1,953 @@
+[{
+        "item": "Banana",
+        "water_footprint": 160,
+        "good_water_used": 150,
+        "polluted_water_used": 10,
+        "unit": "liters",
+        "description": "One medium-sized banana"
+    },
+    {
+        "item": "Toothbrush",
+        "water_footprint": 4,
+        "good_water_used": 3,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard toothbrush"
+    },
+    {
+        "item": "Shampoo",
+        "water_footprint": 500,
+        "good_water_used": 450,
+        "polluted_water_used": 50,
+        "unit": "liters",
+        "description": "One bottle of shampoo"
+    },
+    {
+        "item": "Egg",
+        "water_footprint": 135,
+        "good_water_used": 120,
+        "polluted_water_used": 15,
+        "unit": "liters",
+        "description": "One chicken egg"
+    },
+    {
+        "item": "Tennis Shoes",
+        "water_footprint": 900,
+        "good_water_used": 800,
+        "polluted_water_used": 100,
+        "unit": "liters",
+        "description": "A pair of tennis shoes"
+    },
+    {
+        "item": "Computer Mouse",
+        "water_footprint": 15,
+        "good_water_used": 13,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A standard computer mouse"
+    },
+    {
+        "item": "Coffee Mug",
+        "water_footprint": 80,
+        "good_water_used": 70,
+        "polluted_water_used": 10,
+        "unit": "liters",
+        "description": "One coffee mug"
+    },
+    {
+        "item": "T-shirt",
+        "water_footprint": 700,
+        "good_water_used": 600,
+        "polluted_water_used": 100,
+        "unit": "liters",
+        "description": "A standard cotton T-shirt"
+    },
+    {
+        "item": "Desk Chair",
+        "water_footprint": 1200,
+        "good_water_used": 1000,
+        "polluted_water_used": 200,
+        "unit": "liters",
+        "description": "A standard office desk chair"
+    },
+    {
+        "item": "Milk",
+        "water_footprint": 1000,
+        "good_water_used": 900,
+        "polluted_water_used": 100,
+        "unit": "liters",
+        "description": "One liter of cow's milk"
+    },
+    {
+        "item": "Smartphone",
+        "water_footprint": 800,
+        "good_water_used": 750,
+        "polluted_water_used": 50,
+        "unit": "liters",
+        "description": "A typical smartphone"
+    },
+    {
+        "item": "Jeans",
+        "water_footprint": 2200,
+        "good_water_used": 2000,
+        "polluted_water_used": 200,
+        "unit": "liters",
+        "description": "A pair of denim jeans"
+    },
+    {
+        "item": "Soap",
+        "water_footprint": 300,
+        "good_water_used": 280,
+        "polluted_water_used": 20,
+        "unit": "liters",
+        "description": "One bar of soap"
+    },
+    {
+        "item": "Book",
+        "water_footprint": 150,
+        "good_water_used": 130,
+        "polluted_water_used": 20,
+        "unit": "liters",
+        "description": "A typical paperback book"
+    },
+    {
+        "item": "Bicycle",
+        "water_footprint": 400,
+        "good_water_used": 350,
+        "polluted_water_used": 50,
+        "unit": "liters",
+        "description": "A standard bicycle"
+    },
+    {
+        "item": "Bread",
+        "water_footprint": 160,
+        "good_water_used": 140,
+        "polluted_water_used": 20,
+        "unit": "liters",
+        "description": "One loaf of bread"
+    },
+    {
+        "item": "Car",
+        "water_footprint": 40000,
+        "good_water_used": 35000,
+        "polluted_water_used": 5000,
+        "unit": "liters",
+        "description": "A mid-sized automobile"
+    },
+    {
+        "item": "Cotton Swab",
+        "water_footprint": 2,
+        "good_water_used": 1,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "One cotton swab"
+    },
+    {
+        "item": "Plastic Bottle",
+        "water_footprint": 30,
+        "good_water_used": 28,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "One disposable plastic water bottle"
+    },
+    {
+        "item": "TV",
+        "water_footprint": 1200,
+        "good_water_used": 1100,
+        "polluted_water_used": 100,
+        "unit": "liters",
+        "description": "A standard television"
+    },
+    {
+        "item": "Potato",
+        "water_footprint": 25,
+        "good_water_used": 20,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "One medium-sized potato"
+    },
+    {
+        "item": "Sunglasses",
+        "water_footprint": 50,
+        "good_water_used": 45,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A pair of sunglasses"
+    },
+    {
+        "item": "Washing Machine",
+        "water_footprint": 8000,
+        "good_water_used": 7500,
+        "polluted_water_used": 500,
+        "unit": "liters",
+        "description": "A standard washing machine"
+    },
+    {
+        "item": "Chocolate Bar",
+        "water_footprint": 200,
+        "good_water_used": 180,
+        "polluted_water_used": 20,
+        "unit": "liters",
+        "description": "One large chocolate bar"
+    },
+    {
+        "item": "Desk",
+        "water_footprint": 1500,
+        "good_water_used": 1400,
+        "polluted_water_used": 100,
+        "unit": "liters",
+        "description": "A standard office desk"
+    },
+    {
+        "item": "Pot",
+        "water_footprint": 100,
+        "good_water_used": 90,
+        "polluted_water_used": 10,
+        "unit": "liters",
+        "description": "A cooking pot"
+    },
+    {
+        "item": "Television Remote",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A television remote control"
+    },
+    {
+        "item": "Soda Can",
+        "water_footprint": 50,
+        "good_water_used": 45,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "One aluminum soda can"
+    },
+    {
+        "item": "Socks",
+        "water_footprint": 100,
+        "good_water_used": 90,
+        "polluted_water_used": 10,
+        "unit": "liters",
+        "description": "A pair of socks"
+    },
+    {
+        "item": "Sunscreen",
+        "water_footprint": 80,
+        "good_water_used": 70,
+        "polluted_water_used": 10,
+        "unit": "liters",
+        "description": "One bottle of sunscreen"
+    },
+    {
+        "item": "Umbrella",
+        "water_footprint": 60,
+        "good_water_used": 50,
+        "polluted_water_used": 10,
+        "unit": "liters",
+        "description": "A standard umbrella"
+    },
+    {
+        "item": "Desk Lamp",
+        "water_footprint": 10,
+        "good_water_used": 8,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A desk lamp"
+    },
+    {
+        "item": "Kettle",
+        "water_footprint": 50,
+        "good_water_used": 45,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A kettle for boiling water"
+    },
+    {
+        "item": "Watch",
+        "water_footprint": 15,
+        "good_water_used": 12,
+        "polluted_water_used": 3,
+        "unit": "liters",
+        "description": "A wristwatch"
+    },
+    {
+        "item": "Teapot",
+        "water_footprint": 30,
+        "good_water_used": 27,
+        "polluted_water_used": 3,
+        "unit": "liters",
+        "description": "A teapot"
+    },
+    {
+        "item": "Bed",
+        "water_footprint": 2500,
+        "good_water_used": 2300,
+        "polluted_water_used": 200,
+        "unit": "liters",
+        "description": "A standard bed"
+    },
+    {
+        "item": "Cup",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A drinking cup"
+    },
+    {
+        "item": "Backpack",
+        "water_footprint": 300,
+        "good_water_used": 270,
+        "polluted_water_used": 30,
+        "unit": "liters",
+        "description": "A standard backpack"
+    },
+    {
+        "item": "Tea Bag",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "One tea bag"
+    },
+    {
+        "item": "Plate",
+        "water_footprint": 40,
+        "good_water_used": 35,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A dinner plate"
+    },
+    {
+        "item": "Alarm Clock",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard alarm clock"
+    },
+    {
+        "item": "Nail Clippers",
+        "water_footprint": 2,
+        "good_water_used": 1,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A pair of nail clippers"
+    },
+    {
+        "item": "Spoon",
+        "water_footprint": 4,
+        "good_water_used": 3,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard spoon"
+    },
+    {
+        "item": "Television Stand",
+        "water_footprint": 800,
+        "good_water_used": 700,
+        "polluted_water_used": 100,
+        "unit": "liters",
+        "description": "A television stand"
+    },
+    {
+        "item": "Keyboard",
+        "water_footprint": 12,
+        "good_water_used": 10,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A standard computer keyboard"
+    },
+    {
+        "item": "Razor",
+        "water_footprint": 4,
+        "good_water_used": 3,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A disposable razor"
+    },
+    {
+        "item": "Frying Pan",
+        "water_footprint": 40,
+        "good_water_used": 35,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A frying pan"
+    },
+    {
+        "item": "Desk Organizer",
+        "water_footprint": 8,
+        "good_water_used": 6,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A desk organizer"
+    },
+    {
+        "item": "Calculator",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard calculator"
+    },
+    {
+        "item": "Tennis Ball",
+        "water_footprint": 10,
+        "good_water_used": 8,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A tennis ball"
+    },
+    {
+        "item": "Plant Pot",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A plant pot"
+    },
+    {
+        "item": "Desk Calendar",
+        "water_footprint": 3,
+        "good_water_used": 2,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A desk calendar"
+    },
+    {
+        "item": "Screwdriver",
+        "water_footprint": 6,
+        "good_water_used": 5,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A screwdriver"
+    },
+    {
+        "item": "Curtains",
+        "water_footprint": 50,
+        "good_water_used": 45,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A pair of curtains"
+    },
+    {
+        "item": "Pencil",
+        "water_footprint": 2,
+        "good_water_used": 1,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard wooden pencil"
+    },
+    {
+        "item": "Post-it Notes",
+        "water_footprint": 1,
+        "good_water_used": 0.5,
+        "polluted_water_used": 0.5,
+        "unit": "liters",
+        "description": "A pack of post-it notes"
+    },
+    {
+        "item": "Sofa",
+        "water_footprint": 3000,
+        "good_water_used": 2700,
+        "polluted_water_used": 300,
+        "unit": "liters",
+        "description": "A standard sofa"
+    },
+    {
+        "item": "Tennis Racket",
+        "water_footprint": 40,
+        "good_water_used": 36,
+        "polluted_water_used": 4,
+        "unit": "liters",
+        "description": "A tennis racket"
+    },
+    {
+        "item": "Mug",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A coffee mug"
+    },
+    {
+        "item": "Mirror",
+        "water_footprint": 15,
+        "good_water_used": 13,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A bathroom mirror"
+    },
+    {
+        "item": "Vase",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A decorative vase"
+    },
+    {
+        "item": "Trash Can",
+        "water_footprint": 10,
+        "good_water_used": 9,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A trash can"
+    },
+    {
+        "item": "Phone Charger",
+        "water_footprint": 8,
+        "good_water_used": 7,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A phone charger"
+    },
+    {
+        "item": "Teapot",
+        "water_footprint": 30,
+        "good_water_used": 27,
+        "polluted_water_used": 3,
+        "unit": "liters",
+        "description": "A teapot"
+    },
+    {
+        "item": "Backpack",
+        "water_footprint": 300,
+        "good_water_used": 270,
+        "polluted_water_used": 30,
+        "unit": "liters",
+        "description": "A standard backpack"
+    },
+    {
+        "item": "Tea Bag",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "One tea bag"
+    },
+    {
+        "item": "Plate",
+        "water_footprint": 40,
+        "good_water_used": 35,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A dinner plate"
+    },
+    {
+        "item": "Alarm Clock",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard alarm clock"
+    },
+    {
+        "item": "Nail Clippers",
+        "water_footprint": 2,
+        "good_water_used": 1,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A pair of nail clippers"
+    },
+    {
+        "item": "Spoon",
+        "water_footprint": 4,
+        "good_water_used": 3,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard spoon"
+    },
+    {
+        "item": "Television Stand",
+        "water_footprint": 800,
+        "good_water_used": 700,
+        "polluted_water_used": 100,
+        "unit": "liters",
+        "description": "A television stand"
+    },
+    {
+        "item": "Keyboard",
+        "water_footprint": 12,
+        "good_water_used": 10,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A standard computer keyboard"
+    },
+    {
+        "item": "Razor",
+        "water_footprint": 4,
+        "good_water_used": 3,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A disposable razor"
+    },
+    {
+        "item": "Frying Pan",
+        "water_footprint": 40,
+        "good_water_used": 35,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A frying pan"
+    },
+    {
+        "item": "Desk Organizer",
+        "water_footprint": 8,
+        "good_water_used": 6,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A desk organizer"
+    },
+    {
+        "item": "Calculator",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard calculator"
+    },
+    {
+        "item": "Tennis Ball",
+        "water_footprint": 10,
+        "good_water_used": 8,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A tennis ball"
+    },
+    {
+        "item": "Plant Pot",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A plant pot"
+    },
+    {
+        "item": "Desk Calendar",
+        "water_footprint": 3,
+        "good_water_used": 2,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A desk calendar"
+    },
+    {
+        "item": "Screwdriver",
+        "water_footprint": 6,
+        "good_water_used": 5,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A screwdriver"
+    },
+    {
+        "item": "Curtains",
+        "water_footprint": 50,
+        "good_water_used": 45,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A pair of curtains"
+    },
+    {
+        "item": "Pencil",
+        "water_footprint": 2,
+        "good_water_used": 1,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard wooden pencil"
+    },
+    {
+        "item": "Post-it Notes",
+        "water_footprint": 1,
+        "good_water_used": 0.5,
+        "polluted_water_used": 0.5,
+        "unit": "liters",
+        "description": "A pack of post-it notes"
+    },
+    {
+        "item": "Sofa",
+        "water_footprint": 3000,
+        "good_water_used": 2700,
+        "polluted_water_used": 300,
+        "unit": "liters",
+        "description": "A standard sofa"
+    },
+    {
+        "item": "Tennis Racket",
+        "water_footprint": 40,
+        "good_water_used": 36,
+        "polluted_water_used": 4,
+        "unit": "liters",
+        "description": "A tennis racket"
+    },
+    {
+        "item": "Mug",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A coffee mug"
+    },
+    {
+        "item": "Mirror",
+        "water_footprint": 15,
+        "good_water_used": 13,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A bathroom mirror"
+    },
+    {
+        "item": "Vase",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A decorative vase"
+    },
+    {
+        "item": "Trash Can",
+        "water_footprint": 10,
+        "good_water_used": 9,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A trash can"
+    },
+    {
+        "item": "Phone Charger",
+        "water_footprint": 8,
+        "good_water_used": 7,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A phone charger"
+    },
+    {
+        "item": "Teapot",
+        "water_footprint": 30,
+        "good_water_used": 27,
+        "polluted_water_used": 3,
+        "unit": "liters",
+        "description": "A teapot"
+    },
+    {
+        "item": "Backpack",
+        "water_footprint": 300,
+        "good_water_used": 270,
+        "polluted_water_used": 30,
+        "unit": "liters",
+        "description": "A standard backpack"
+    },
+    {
+        "item": "Tea Bag",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "One tea bag"
+    },
+    {
+        "item": "Plate",
+        "water_footprint": 40,
+        "good_water_used": 35,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A dinner plate"
+    },
+    {
+        "item": "Alarm Clock",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard alarm clock"
+    },
+    {
+        "item": "Nail Clippers",
+        "water_footprint": 2,
+        "good_water_used": 1,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A pair of nail clippers"
+    },
+    {
+        "item": "Spoon",
+        "water_footprint": 4,
+        "good_water_used": 3,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard spoon"
+    },
+    {
+        "item": "Television Stand",
+        "water_footprint": 800,
+        "good_water_used": 700,
+        "polluted_water_used": 100,
+        "unit": "liters",
+        "description": "A television stand"
+    },
+    {
+        "item": "Keyboard",
+        "water_footprint": 12,
+        "good_water_used": 10,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A standard computer keyboard"
+    },
+    {
+        "item": "Razor",
+        "water_footprint": 4,
+        "good_water_used": 3,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A disposable razor"
+    },
+    {
+        "item": "Frying Pan",
+        "water_footprint": 40,
+        "good_water_used": 35,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A frying pan"
+    },
+    {
+        "item": "Desk Organizer",
+        "water_footprint": 8,
+        "good_water_used": 6,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A desk organizer"
+    },
+    {
+        "item": "Calculator",
+        "water_footprint": 5,
+        "good_water_used": 4,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard calculator"
+    },
+    {
+        "item": "Tennis Ball",
+        "water_footprint": 10,
+        "good_water_used": 8,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A tennis ball"
+    },
+    {
+        "item": "Plant Pot",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A plant pot"
+    },
+    {
+        "item": "Desk Calendar",
+        "water_footprint": 3,
+        "good_water_used": 2,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A desk calendar"
+    },
+    {
+        "item": "Screwdriver",
+        "water_footprint": 6,
+        "good_water_used": 5,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A screwdriver"
+    },
+    {
+        "item": "Curtains",
+        "water_footprint": 50,
+        "good_water_used": 45,
+        "polluted_water_used": 5,
+        "unit": "liters",
+        "description": "A pair of curtains"
+    },
+    {
+        "item": "Pencil",
+        "water_footprint": 2,
+        "good_water_used": 1,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A standard wooden pencil"
+    },
+    {
+        "item": "Post-it Notes",
+        "water_footprint": 1,
+        "good_water_used": 0.5,
+        "polluted_water_used": 0.5,
+        "unit": "liters",
+        "description": "A pack of post-it notes"
+    },
+    {
+        "item": "Sofa",
+        "water_footprint": 3000,
+        "good_water_used": 2700,
+        "polluted_water_used": 300,
+        "unit": "liters",
+        "description": "A standard sofa"
+    },
+    {
+        "item": "Tennis Racket",
+        "water_footprint": 40,
+        "good_water_used": 36,
+        "polluted_water_used": 4,
+        "unit": "liters",
+        "description": "A tennis racket"
+    },
+    {
+        "item": "Mug",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A coffee mug"
+    },
+    {
+        "item": "Mirror",
+        "water_footprint": 15,
+        "good_water_used": 13,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A bathroom mirror"
+    },
+    {
+        "item": "Vase",
+        "water_footprint": 20,
+        "good_water_used": 18,
+        "polluted_water_used": 2,
+        "unit": "liters",
+        "description": "A decorative vase"
+    },
+    {
+        "item": "Trash Can",
+        "water_footprint": 10,
+        "good_water_used": 9,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A trash can"
+    },
+    {
+        "item": "Phone Charger",
+        "water_footprint": 8,
+        "good_water_used": 7,
+        "polluted_water_used": 1,
+        "unit": "liters",
+        "description": "A phone charger"
+    },
+    {
+        "item": "Teapot",
+        "water_footprint": 30,
+        "good_water_used": 27,
+        "polluted_water_used": 3,
+        "unit": "liters",
+        "description": "A teapot"
+    },
+    {
+        "item": "Backpack",
+        "water_footprint": 300,
+        "good_water_used": 270,
+        "polluted_water_used": 30,
+        "unit": "liters",
+        "description": "A standard backpack"
+    }
+]
