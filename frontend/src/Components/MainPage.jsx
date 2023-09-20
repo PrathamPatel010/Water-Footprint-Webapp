@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import axios from 'axios';
 const MainPage = () => {
 
@@ -29,11 +29,10 @@ const MainPage = () => {
             <div className="header-app my-4">
                 <h1>Main Page of Frontend</h1>
             </div>
-
             <article>
                 <form className="image-form" onSubmit={handleSubmit} encType="multipart/form-data">
                     <label htmlFor="input" className="my-3">Select file or Click a photo</label>
-                    <input type="file" />
+                    <input type="file" name="file" required/>
                     <button className="btn btn-success my-3" type="submit">Upload a file</button>
                 </form>
             </article>
