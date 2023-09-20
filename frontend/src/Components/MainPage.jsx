@@ -4,6 +4,7 @@ const MainPage = () => {
 
     const backend_base = import.meta.env.VITE_BACKEND_BASE;
     const [uploadPercentage,setUploadPercentage] = useState(0);
+    const [filePath,setFilePath] = useState('');
 
     const handleSubmit = async(e) => {
         e.preventDefault();
@@ -18,12 +19,18 @@ const MainPage = () => {
                     setUploadPercentage(percentageCompleted);
                 },
             });
+            setFilePath(response.data.path);
             console.log(response.data);
         } catch(err){
             console.log(err.message);
         }
     }
 
+
+    const handleDetect = async() => {
+        const response = await axios.post(`${backend_base}/api/detect`,{filePath});
+        console.log(response.data);
+    }
     return(
         <>
             <div className="header-app my-4">
@@ -43,6 +50,13 @@ const MainPage = () => {
                         <div className="container text-center" style={{width:"50%"}}>
                             <div className="progress-bar progress-bar-striped progress-bar-animated bg-info" style={{width:`${uploadPercentage}%`}}>{uploadPercentage}%</div>
                         </div>
+                    </div>
+                )
+            }
+            {
+                (uploadPercentage==100) && (
+                    <div className="object-detect-div text-center my-3">
+                        <button className="btn btn-primary" onClick={handleDetect} type="btn btn-primary">Click here to detect object</button>
                     </div>
                 )
             }
